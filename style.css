@@ -12,12 +12,12 @@ header, main, footer {
 	clear:both;
 	margin-left:0;
 	width:960px;
-	background-color:#FFFF00;
 	
 }
 
 header, main h1 {
 	color:#FF0000;
+	background-color:#33FFFF;
 }
 
 a, a:visited {
