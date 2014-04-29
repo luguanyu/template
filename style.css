@@ -20,8 +20,9 @@ header, main h1 {
 }
 
 a, a:visited {
-	color:#400000;
+	color:#66FF33;
 	text-decoration:none;
+	font:20px;
 }
 
 a:hover {
