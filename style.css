@@ -4,7 +4,7 @@ body {
 	font-family:Courier;
 	width:960px;
 	margin:auto;
-	background-image:url(http://cdn2.vtourist.com/4/4259886-Michigan_State_University_East_Lansing.jpg);
+	background-image:url(http://msutoday.msu.edu/_/img/assets/2012/msu-sign-summer-fall.jpg);
 }
 
 
@@ -52,7 +52,7 @@ a:hover {
 }
 
 #menu {
-	width:150px;
+	width:960px;
 	display: block;
 	float:left;
 	margin-left:-40px;
