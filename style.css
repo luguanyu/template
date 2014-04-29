@@ -4,7 +4,7 @@ body {
 	font-family:Courier;
 	width:960px;
 	margin:auto;
-	background-image:url(http://upload.wikimedia.org/wikipedia/en/a/a2/MSU_Beaumont_Tower_1.jpg);
+	background-image:url(http://cdn2.vtourist.com/4/4259886-Michigan_State_University_East_Lansing.jpg);
 }
 
 
@@ -55,7 +55,6 @@ a:hover {
 	width:150px;
 	display: block;
 	float:top;
-	margin-left:-40px;
 	}
 
 #menu ul {
