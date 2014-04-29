@@ -54,12 +54,13 @@ a:hover {
 #menu {
 	width:150px;
 	display: block;
-	float:top;
+	float:left;
+	margin-left:-40px;
 	}
 
 #menu ul {
 	list-style: none;
-	float:top;
+	float:left;
 	margin-left:0;
 	border-right: 1px solid #c0c0c0;
 	}
