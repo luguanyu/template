@@ -35,7 +35,6 @@ a:hover {
 	list-style: none;
 	width:960px;
 	margin-left:-40px;
-	background-color:#9966cc;
 	
 }
 
@@ -54,7 +53,7 @@ a:hover {
 	background-color:#9966cc
 }
 
-#menu {
+#menu {list-style: none;
 	width:140px;
 	display: block;
 	float:left;
