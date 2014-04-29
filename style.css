@@ -22,7 +22,7 @@ header, main h1 {
 a, a:visited {
 	color:#66FF33;
 	text-decoration:none;
-	width:200px;
+	font-size:200px;
 }
 
 a:hover {
