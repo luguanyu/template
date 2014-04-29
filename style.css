@@ -15,7 +15,7 @@ header, main, footer {
 	
 }
 
-header, main h1 {
+header, main h1, article h1 {
 	color:#FF0000;
 	background-color:#33FFFF;
 }
