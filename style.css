@@ -39,7 +39,7 @@ a:hover {
 
 #nav li {
 	display:block;
-	float: top;
+	float: left;
 	padding:5px;
 	margin-bottom:20px;
 	margin-right:10px;
